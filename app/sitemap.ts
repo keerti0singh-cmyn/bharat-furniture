@@ -1,7 +1,7 @@
 import { MetadataRoute } from 'next';
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = 'https://bharatfurniture.com';
+  const baseUrl = 'https://bharat-furniture-co14eec2j-keerti-singhs-projects-614b16eb.vercel.app/';
 
   return [
     {
