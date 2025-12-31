@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://bharat-furniture-co14eec2j-keerti-singhs-projects-614b16eb.vercel.app/
+    
